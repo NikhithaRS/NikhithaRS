@@ -3,9 +3,7 @@
 <h3 align="center">An enthusiatic learner</h3>
 <img align="right" alt="Coding" width="300" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhithars&label=Profile%20views&color=0e75b6&style=flat" alt="nikhithars" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nikhitha r s" target="blank"><img src="https://img.shields.io/twitter/follow/nikhitha r s?logo=twitter&style=for-the-badge" alt="nikhitha r s" /></a> </p>
 
 - 📫 How to reach me  **nikhithars20@gmail.com**
 
