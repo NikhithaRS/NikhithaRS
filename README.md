@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NikhithaRS
+- 👋 Heyy, I’m @NikhithaRS
 -  I’m interested in buliding up new projects.
 -  I’m currently an undergrad who love to explore and learn new stuff in my free time.
 
