@@ -7,9 +7,9 @@
 
 - 📫 How to reach me  **nikhithars20@gmail.com**
 
-- 👧 **Currently an undergrad pursuing computer science**
+- 👧 **An computer science major**
 
-- ⚡ Fun fact  **I'm a curious and always intereseted in learning new stuff**
+- ⚡ Fun fact  **I'm a certified night owl trying to explore new things**
   
 
 <h3 align="left">Connect with me:</h3>
