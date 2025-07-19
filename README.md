@@ -1,13 +1,12 @@
 <h2>💫 About Me</h2>
 
 
-- 🎓 CS undergrad trying to make sense of code & caffeine  
-- 🌙 Peak productivity hours: 12AM–3AM (no regrets 😅)  
-- 💻 Most confident in full-stack web dev (I love making ideas real!)  
-- 🎨 UI/UX lowkey my favorite part of building stuff  
-- 🧠 Curious learner + debugger by nature  
-- 🤝 Always open to collab & cool projects  
 
+- 🎓 CS undergrad trying to make sense of code & caffeine ☕  
+- 🌙 Peak productivity hours: 12AM–3AM (no regrets 😅)    
+- ✨ Goal: Build things that look good and work great
+- 🧠 Curious learner + debugger by nature  
+- 😄 Always down to collab, learn, and vibe with techy minds
 
 
 ## 🌐 Socials:
