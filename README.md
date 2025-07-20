@@ -1,30 +1,81 @@
-<h2>💫 About Me</h2>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nikhithars.nikhithars" />
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nikhitha+R+S!;" />
+</h1>
 
+<h3 align="center">✨ UI/UX Designer | Frontend Developer | AI Enthusiast ✨</h3>
 
-- 🎓 CS undergrad trying to make sense of code & caffeine ☕  
-- 🌙 Peak productivity hours: 12AM–3AM (no regrets 😅)    
-- ✨ Goal: Build things that look good and work great
-- 🧠 Curious learner + debugger by nature  
-- 😄 Always down to collab, learn, and vibe with techy minds
+<br/>
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikhitha_r_s)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhithars)
-[![](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NikhithaRS20)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhithars20@gmail.com) 
+🚀 Exploring the world of **design, code, and creativity**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NikhithaRS&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NikhithaRS&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhithaRS&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+🎯 Currently contributing to:
+- 💬 **BankTalk AI** – Conversational banking chatbot UI
+- 🐾 **AI-powered Animal Rescue App** – For emergency vet care, rescue & NGOs
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NikhithaRS&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+🌱 Learning and building with **Next.js, Framer Motion, and Tailwind CSS**
 
+🎨 Love designing clean, intuitive, and responsive interfaces
 
+🤝 Actively participating in **Hackathons, Ideathons & Open Source**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br/>
+
+<div align="center"> 
+  <a href="mailto:nikhithars.official@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/nikhitha-rs/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://nikhitha-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<h2 align="center">⚒️ Tech Stack & Tools ⚒️</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,framer,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,firebase,mongodb,mysql,java,c,git" />
+</div>
+
+---
+
+<h2 align="center">🔥 GitHub Contributions 🔥</h2>
+
+<div align="center">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/nikhithars/nikhithars/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+<h2 align="center">📊 My GitHub Stats 📊</h2>
+
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nikhithars&count_private=true&theme=react&border_radius=10" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=nikhithars&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+  <br/>
+  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nikhithars&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" />
+</div>
+
+---
+
+<h2 align="center">☕ Support My Journey</h2>
+
+<div align="center">
+  <a href="https://ko-fi.com/nikhithars" target="_blank">
+    <img height="64" style="border:0px;height:64px;" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Buy Me a Coffee at ko-fi.com" />
+  </a>
+</div>
+
+---
+
+<br/>
